@@ -105,7 +105,7 @@ function App() {
             <div
               style={{
                 backgroundImage: `linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.41)), url(${gate})`,
-                 backgroundSize: "100%",
+                 backgroundSize: "101%",
                 backgroundPosition: "0px -40px",
                 backgroundRepeat:"no-repeat",
                 width: "105%",
