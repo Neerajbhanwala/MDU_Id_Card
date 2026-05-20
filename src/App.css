@@ -107,10 +107,6 @@ align-items: center;
   @media print {
   
   
-    /* .popUp{
-      display: block;
-    } */
-    
    
 * {
     -webkit-print-color-adjust: exact !important;
